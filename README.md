@@ -1,4 +1,4 @@
-# Dream-Tree
+# React-Redux-counter
 运行程序：
 ```
 npm install
